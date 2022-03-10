@@ -1,0 +1,21 @@
+- Class adalah template untuk membuat instance dari object 
+- class mendefinisikan objeck 
+- menyimpan data dan perilaku yang disebut Property(Sesuatu yang melekat pada class)	dan Method(Perilaku apa saja yang dpat di lakukan sebuah kelas
+
+- Object adaalah instance yang di definisikan oleh class
+
+- Property adalah merepresentasi data 
+
+CONTOH PROPERTY 
+- nama
+- merk
+- warna
+- kecepatan 
+- jumlahPenumpang 
+
+CONTOH METHOD
+- TambahKecepatan
+- KurangiKecepatan
+- GantiTransmisi
+- BelokKiri
+- BelokKanan 
